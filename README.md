@@ -44,6 +44,3 @@ An e-commerce business has sales data spread across states, categories, sub-cate
 - Madhav Ecommerce sales dashboard.pdf: PDF of both pages
 - screenshots/: dashboard images
 
-## Author
-
-[Your Name] | [LinkedIn link]
