@@ -3,9 +3,9 @@
 A 2-page Power BI dashboard that analyses sales and profit for an e-commerce dataset of 1,500 records.
 
 ## Screenshots
-
-![Executive Summary](screenshots/page1.png)
-![Product and Profit Analysis](screenshots/page2.png)
+![Executive Summary](Dashboard%201.png)
+![product and profit Analysis]
+(Dashboard%202.png)
 
 ## Business Problem
 
