@@ -15,6 +15,15 @@ An e-commerce business has sales data spread across states, categories, sub-cate
 - In which months does the business lose money?
 - How does profit change from one month to the next?
 
+ ## Data Source
+
+The data comes from two Excel files:
+
+- Orders.xlsx (500 orders): Order ID, Order Date, Customer Name, State, City
+- Details.xlsx (1,500 order lines): Order ID, Amount (sales), Profit, Quantity, Category, Sub-Category, Payment Mode
+
+The two tables are linked using Order ID, with one order having many order lines. The dataset was already cleaned (no missing values or duplicate rows) and is used for learning and portfolio purposes. 
+
 ## Tools Used
 
 - Power BI Desktop: data model, visuals and dashboard layout
@@ -37,7 +46,17 @@ An e-commerce business has sales data spread across states, categories, sub-cate
 - Printers are the top profit sub-category (₹8.6K)
 - Profit is uneven, with losses in May, July, September and December
 
+  ## Recommendations
+
+1. Investigate the loss months (May, July, September, December):  Check discounts, shipping costs and product mix to find what pushed profit below zero.
+2. Review pricing and discounts on low-margin products:  Electronics has the lowest margin (7.9%).
+3. Replicate what works in Madhya Pradesh: It earns the most profit (₹7.4K) even though Maharashtra has higher sales (₹102K).
+4. Promote high-profit sub-categories: Printers (₹8.6K) and Bookcases (₹6.5K) lead on profit.
+5. Learn from November: It was the best month (₹10.3K profit), so find out what drove it.
+
+
 ## Files
+- Orders.xlsx and Details.xlsx: source data
 - Madhav_E-commerce_sales_dashboard.pbix: open with Power BI Desktop
 - Madhav_E-commerce_sales_dashboard.pdf: PDF of both pages
 - Dashboard 1.png and Dashboard 2.png: dashboard screenshots
