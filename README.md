@@ -38,8 +38,6 @@ An e-commerce business has sales data spread across states, categories, sub-cate
 - Profit is uneven, with losses in May, July, September and December
 
 ## Files
-
-- Madhav Ecommerce sales dashboard.pbix: open with Power BI Desktop
-- Madhav Ecommerce sales dashboard.pdf: PDF of both pages
-- screenshots/: dashboard images
-
+- Madhav_E-commerce_sales_dashboard.pbix: open with Power BI Desktop
+- Madhav_E-commerce_sales_dashboard.pdf: PDF of both pages
+- Dashboard 1.png and Dashboard 2.png: dashboard screenshots
