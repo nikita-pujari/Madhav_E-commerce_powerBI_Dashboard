@@ -1,5 +1,4 @@
 # Madhav_E-commerce_powerBI_Dashboard
-# Madhav E-Commerce Sales Dashboard
 
 A 2-page Power BI dashboard that analyses sales and profit for an e-commerce dataset of 1,500 records.
 
